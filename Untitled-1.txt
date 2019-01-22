@@ -1,0 +1,6 @@
+*.pyc
+__Pycache__
+tutovenv
+db.sqlite3
+/static
+.DS_Store
